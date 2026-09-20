@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Irfan</h1>
-<h3 align="center">Electrical Engineer | RISC-V CPU Design | IC Design & Verification</h3>
+<h3 align="center">Electrical Engineer | Design Verification Engineer | System Verilog and UVM </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-irfan-7a8046397">
