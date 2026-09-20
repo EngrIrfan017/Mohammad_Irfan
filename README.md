@@ -41,7 +41,7 @@
 **🔹 [Single Cycle RISC-V Processor](https://github.com/EngrIrfan017/risc-v-single-cycle-processor.git)**
 Full RV32I single cycle processor verified via testbench-driven simulation and GTKWave waveform analysis.
 
-**🔹 [Pipelined RISC-V Processor — SoC Integration](#)**
+**🔹 [Pipelined RISC-V Processor — SoC Integration](https://github.com/EngrIrfan017/5-stage-risc-v-pipelined-processor.git)**
 Pipelined RISC-V core integrated into an SoC with external memory; verified using Icarus Verilog, Verilator, and GTKWave alongside a C software stack via GCC cross-compiler.
 
 **🔹 [Verification of APB Memory using Layered Testbench](#)**
