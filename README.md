@@ -38,8 +38,8 @@
 
 ### 💼 Featured Projects
 
-**🔹 [32-bit, 5-Stage Pipelined RISC-V Processor](#)**
-Full RV32I pipelined processor with hazard detection and forwarding units to eliminate pipeline bubbles; verified via testbench-driven simulation and GTKWave waveform analysis.
+**🔹 [Single Cycle RISC-V Processor](https://github.com/EngrIrfan017/risc-v-single-cycle-processor.git)**
+Full RV32I single cycle processor verified via testbench-driven simulation and GTKWave waveform analysis.
 
 **🔹 [Pipelined RISC-V Processor — SoC Integration](#)**
 Pipelined RISC-V core integrated into an SoC with external memory; verified using Icarus Verilog, Verilator, and GTKWave alongside a C software stack via GCC cross-compiler.
