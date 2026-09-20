@@ -65,4 +65,4 @@ Real-time video capture from an OV5640 camera on a Zynq-7020 FPGA, with a custom
 
 ---
 
-<p align="center"><i>Open to opportunities in Digital Design & Verification / RTL Engineering.</i></p>
+<p align="center"><i>Open to opportunities in Digital Design Verification Engineering.</i></p>
